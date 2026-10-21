@@ -663,17 +663,11 @@
         <div class="container">
             <div class="hero-content fade-in">
                 <div class="hero-text">
-                    <h1>Princilla Abena KORANTENG</h1>
+                    <h1>Liina Kaldmäe</h1>
                     <h2>Data Analyst & Insights Specialist</h2>
-                    <p> Beyond my role as a data analyst, I am also a data educator sharing my journey 
-                        and insights across YouTube, LinkedIn, and TikTok where I teach, 
-                        inspire, and empower others about the world of data.
-                        
-                        <p>
-                        This belief is what inspired me to found Data in Action Africa, a growing 
-                        community that supports aspiring African data analysts who don’t just enter the data 
-                        space, they shake the tables when they arrive.</p>
-
+                    <p> I'm a data analyst passionate about turning raw data into clear, actionable insights. 
+                    I use SQL, Python, Tableau, and Power BI to explore datasets, identify trends, and communicate findings through data visualizations. 
+                    My portfolio showcases projects where I combine analytical thinking, technical skills, and business-focused problem-solving to support better decisions.
                     <a href="#projects" class="cta-button">See My Work</a>
                 </div>
                 <div class="hero-image">
@@ -944,7 +938,7 @@
                         <span>📧</span>
                         <div>
                             <strong>Email</strong>
-                            <p>princilla@datainactionafrica.com</p>
+                            <p>liinakaldmae@gmail.com</p>
                         </div>
                     </div>
                     <div class="contact-item">
@@ -958,14 +952,14 @@
                         <span>💼</span>
                         <div>
                             <strong>LinkedIn</strong>
-                            <p>linkedin.com/in/princilla-koranteng</p>
+                            <p>linkedin.com/in/liinakaldmae</p>
                         </div>
                     </div>
                     <div class="contact-item">
                         <span>🐙</span>
                         <div>
                             <strong>GitHub</strong>
-                            <p>github.com/princilla-koranteng</p>
+                            <p>github.com/liinakaldmae</p>
                         </div>
                     </div>
                 </div>
@@ -995,7 +989,7 @@
     <!-- Footer -->
     <footer class="footer">
         <div class="container">
-            <p>&copy; 2025 Princilla Abena Koranteng. All rights reserved.</p>
+            <p>&copy; 2026 Liina Kaldmäe. All rights reserved.</p>
         </div>
     </footer>
 
